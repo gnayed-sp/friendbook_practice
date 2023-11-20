@@ -7,7 +7,7 @@ const setting = {
     connectionLimit : 10, //set limit to 10 connection
     host : "localhost",
     user : "root",
-    password : "YOUR PASSWORD HERE",
+    password : "12345",
     database : "friendbook_db",
     multipleStatements: true, //allow multiple sql statements
     dateStrings: true //return date as string instead of Date object
